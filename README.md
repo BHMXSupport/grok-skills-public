@@ -1,2 +1,6 @@
 # grok-skills-public
-Grok skills — design-scrape and production-artifact (public mirror)
+
+Public mirror of Grok skills.
+
+- [production-artifact](production-artifact/SKILL.md)
+- [design-scrape](design-scrape/SKILL.md)
